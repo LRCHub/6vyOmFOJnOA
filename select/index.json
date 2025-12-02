@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ミュータント",
+  "base_artist": "Reol",
+  "createdAt": "2025-12-02T00:20:53.701730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミュータント",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_ミュータント_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミュータント",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_ミュータント_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミュータント",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_ミュータント_Reol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミュータント",
+      "artist": "Gero",
+      "has_synced": true,
+      "path": "select/04_ミュータント_Gero.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reol - 'ミュータント' Music Video",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/05_Reol_-_'ミュータント'_Music_Video_Reol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミュータント",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/06_ミュータント_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミュータント",
+      "artist": "沢田 研二",
+      "has_synced": false,
+      "path": "select/pl_01_ミュータント_沢田_研二.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Mutant",
+      "artist": "沢田 研二",
+      "has_synced": false,
+      "path": "select/pl_02_Mutant_沢田_研二.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "mutant",
+      "artist": "沢田 研二",
+      "has_synced": false,
+      "path": "select/pl_03_mutant_沢田_研二.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミュータント",
+      "artist": "沢田 研二",
+      "has_synced": false,
+      "path": "select/pl_04_ミュータント_沢田_研二.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ミュータント",
+      "artist": "沢田 研二",
+      "has_synced": false,
+      "path": "select/pl_05_ミュータント_沢田_研二.txt"
+    }
+  ]
+}
